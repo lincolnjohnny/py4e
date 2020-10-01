@@ -10,7 +10,7 @@
 # you can assume the user types numbers properly. 
 # Do not name your variable sum or use the sum() function.
 
-# function to compute te gross pay
+# function to compute gross pay
 def computepay(h,r):
     if h > 40 :
         return (h*r) + (h-40) * (r*0.5)
