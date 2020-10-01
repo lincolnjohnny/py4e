@@ -1,3 +1,5 @@
+# Arguments
+
 x = 5
 print('Hello')
 
@@ -12,3 +14,5 @@ print_lyrics()
 x = x+2
 
 print(x)
+
+input("Press <ENTER> to continue")
