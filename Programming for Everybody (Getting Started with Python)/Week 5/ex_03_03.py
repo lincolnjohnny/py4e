@@ -30,4 +30,4 @@ if s >= 0.0 and s <= 1.0 :
     elif s < 0.6 :
        print('F')
 else:
-        print('Out of range')
+    print('Out of range')
