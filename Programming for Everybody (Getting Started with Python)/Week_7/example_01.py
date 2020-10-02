@@ -1,5 +1,4 @@
 # Loops and Iteration
-
 n = 5
 
 while n > 0 :
@@ -7,3 +6,13 @@ while n > 0 :
     n = n - 1
 print('Blastoff!')
 print(n)
+
+# --------------------------------------------------
+# Infinite loop
+
+# n = 5
+
+# while n > 0 :
+#     print('Lather')
+#     print('Rinse')
+# print('Dry off!')
