@@ -1,8 +1,10 @@
 # String concatenation
 
 a = 'Hello'
-b = a + 'there'
-print(b)
+b = 'there'
 
-c = a + ' ' + b
-print(c)
+# without using + to concatenate
+print(a,b)
+
+# using + to concatenate
+print(a + ' ' + b)
