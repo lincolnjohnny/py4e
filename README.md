@@ -7,3 +7,6 @@ https://www.coursera.org/learn/python
 
 ## 2 - Python Data Structures:
 https://www.coursera.org/learn/python-data
+
+### Description
+These are my first studies of Python to become a Data Scientist :-)
