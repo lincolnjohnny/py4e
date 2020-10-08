@@ -7,4 +7,4 @@ for line in fhand :
     for word in words :
         counts[word] = counts.get(word,0) + 1
 
-print(sorted([(value,key) for key,value in counts.items()]))
+print(sorted([(value,key) for key,value in counts.items()], reverse=True))
